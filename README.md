@@ -1,130 +1,229 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330" role="img" aria-label="Saufud Alehan - Fullstack Developer, Backend Engineer, AI Automation" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjOThlMTg4Ny05YTQ4LTRiYTctYmQwOC0wN2IwNjg0MDI1M2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFJ4QqEm/06BtZqcq2gwKMQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2N2M0MDZmYi0xM2ZmLTQ5NmMtYTYwZS00MjgwNWJiOTM4NzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoBc1UuBVzAXMrAo8AjofkwAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggyseo7RG0CsztLqHJKUMw7GTdFshUt5YsvPxwff6YivCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCZqcPpM8SMOOO66Jlwd6mUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDHui/VKihr0xHgZLDEquowsGeXDKjBfhoRMaQh6c3ai2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM5OGUxODg3LTlhNDgtNGJhNy1iZDA4LTA3YjA2ODQwMjUzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc2OWY5MDU2LWU5NmUtNDIwZS04MzU1LWRkMzQ3ZDcyY2MxNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDKx6jtEbQKzO0uockpQzDsZN0WyFS3liy8/HB9/piK8KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg/F87c9DOsb75R1ypAE9J25oeGKvr+r5u5gOwLUYSPl+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggZOi5JfB+z+w1R38NtDa5bXcMfVRFuzLqhgXjxC9mbTp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMI5rVaBl3wlQ57vGyC0t0NVFq70G5/Bz+49tAoPSGvRZMpoLVHnTwLTSUW9B9d3B8hnJxYBqyJQXlD8uIDIuE0=</c2pa:manifest></metadata>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="0.55" stop-color="#0b1f5c"/><stop offset="1" stop-color="#033a4f"/></linearGradient>
-<linearGradient id="gName" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="420" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/>
-<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="372 0" dur="5s" repeatCount="indefinite"/></linearGradient>
-<linearGradient id="gLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity="0.07"/></pattern>
-<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
-<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="round"><rect width="1000" height="330" rx="18"/></clipPath>
-</defs>
-<g clip-path="url(#round)">
-<rect width="1000" height="330" fill="url(#bg)"/>
-<rect width="1000" height="330" fill="url(#grid)"/>
-<g filter="url(#blur)">
-<circle cx="180" cy="90" r="90" fill="#6366f1" opacity="0.55"><animate attributeName="cx" values="180;260;180" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="90;140;90" dur="11s" repeatCount="indefinite"/></circle>
-<circle cx="820" cy="240" r="110" fill="#06b6d4" opacity="0.5"><animate attributeName="cx" values="820;720;820" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="240;180;240" dur="8s" repeatCount="indefinite"/></circle>
-<circle cx="520" cy="40" r="70" fill="#ec4899" opacity="0.25"><animate attributeName="cx" values="520;600;520" dur="12s" repeatCount="indefinite"/></circle>
-</g>
-<circle cx="341" cy="250" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></circle>
-<circle cx="850" cy="145" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="0.2s" repeatCount="indefinite"/></circle>
-<circle cx="529" cy="62" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.3s" begin="1.7s" repeatCount="indefinite"/></circle>
-<circle cx="256" cy="31" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" begin="2.3s" repeatCount="indefinite"/></circle>
-<circle cx="980" cy="65" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="1.6s" repeatCount="indefinite"/></circle>
-<circle cx="236" cy="19" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></circle>
-<circle cx="130" cy="154" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="2.7s" repeatCount="indefinite"/></circle>
-<circle cx="115" cy="156" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="2.2s" repeatCount="indefinite"/></circle>
-<circle cx="74" cy="152" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="2.0s" repeatCount="indefinite"/></circle>
-<circle cx="554" cy="117" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="3.7s" repeatCount="indefinite"/></circle>
-<circle cx="380" cy="84" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="2.8s" repeatCount="indefinite"/></circle>
-<circle cx="259" cy="28" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" begin="3.5s" repeatCount="indefinite"/></circle>
-<circle cx="756" cy="122" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="0.3s" repeatCount="indefinite"/></circle>
-<circle cx="534" cy="115" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.3s" begin="0.6s" repeatCount="indefinite"/></circle>
-<circle cx="510" cy="115" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="0.3s" repeatCount="indefinite"/></circle>
-<circle cx="581" cy="154" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" begin="1.4s" repeatCount="indefinite"/></circle>
-<circle cx="518" cy="156" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
-<circle cx="286" cy="129" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" begin="2.8s" repeatCount="indefinite"/></circle>
-<circle cx="672" cy="155" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="1.5s" repeatCount="indefinite"/></circle>
-<circle cx="694" cy="96" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.8s" begin="1.4s" repeatCount="indefinite"/></circle>
-<circle cx="635" cy="37" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" begin="3.1s" repeatCount="indefinite"/></circle>
-<circle cx="142" cy="197" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="3.7s" repeatCount="indefinite"/></circle>
-<circle cx="518" cy="28" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="2.2s" repeatCount="indefinite"/></circle>
-<circle cx="914" cy="43" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="1.1s" repeatCount="indefinite"/></circle>
-<circle cx="435" cy="99" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="0.6s" repeatCount="indefinite"/></circle>
-<circle cx="190" cy="46" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.0s" begin="0.0s" repeatCount="indefinite"/></circle>
-<circle cx="861" cy="158" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle>
-<circle cx="439" cy="144" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="1.3s" repeatCount="indefinite"/></circle>
-<circle cx="138" cy="184" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="3.5s" repeatCount="indefinite"/></circle>
-<circle cx="984" cy="231" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
-<circle cx="503" cy="170" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" begin="0.3s" repeatCount="indefinite"/></circle>
-<circle cx="223" cy="120" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.3s" begin="2.4s" repeatCount="indefinite"/></circle>
-<circle cx="114" cy="8" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" begin="3.8s" repeatCount="indefinite"/></circle>
-<circle cx="638" cy="14" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="2.5s" repeatCount="indefinite"/></circle>
-<circle cx="162" cy="170" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="2.4s" repeatCount="indefinite"/></circle>
-<circle cx="495" cy="39" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.5s" begin="4.0s" repeatCount="indefinite"/></circle>
-<circle cx="487" cy="130" r="1.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></circle>
-<circle cx="777" cy="95" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="2.8s" repeatCount="indefinite"/></circle>
-<circle cx="538" cy="13" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="2.1s" repeatCount="indefinite"/></circle>
-<circle cx="160" cy="184" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.3s" begin="1.2s" repeatCount="indefinite"/></circle>
-<circle cx="668" cy="229" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.1s" begin="1.0s" repeatCount="indefinite"/></circle>
-<circle cx="385" cy="240" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="0.9s" repeatCount="indefinite"/></circle>
-<circle cx="564" cy="207" r="1.3" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="2.5s" repeatCount="indefinite"/></circle>
-<circle cx="817" cy="202" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="3.3s" repeatCount="indefinite"/></circle>
-<circle cx="767" cy="213" r="1" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="2.0s" repeatCount="indefinite"/></circle>
-<circle cx="758" cy="15" r="0.8" fill="#e0f2fe"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="1.9s" repeatCount="indefinite"/></circle>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Saufud Alehan - Fullstack Developer, Backend Engineer, AI Automation" />
+</div>
 
-<!-- rotating orbit ring -->
-<g transform="translate(830,160)" opacity="0.35"><circle r="150" fill="none" stroke="#38bdf8" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="60s" repeatCount="indefinite"/></circle>
-<circle r="115" fill="none" stroke="#818cf8" stroke-dasharray="1 7"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="45s" repeatCount="indefinite"/></circle></g>
-<g><text x="575" y="95" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22d3ee" opacity="0.55" text-anchor="middle">&lt;/&gt;
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="0s" repeatCount="indefinite"/></text></g>
-<g><text x="610" y="285" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#a78bfa" opacity="0.55" text-anchor="middle">{ }
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></text></g>
-<g><text x="960" y="40" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#38bdf8" opacity="0.55" text-anchor="middle">API
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="2.1s" repeatCount="indefinite"/></text></g>
-<g><text x="605" y="205" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#f472b6" opacity="0.55" text-anchor="middle">AI
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="0.6s" repeatCount="indefinite"/></text></g>
-<g><text x="965" y="300" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#fb7185" opacity="0.55" text-anchor="middle">n8n
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4.5s" begin="1.8s" repeatCount="indefinite"/></text></g>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=Halo%2C+saya+Saufud+%F0%9F%91%8B+Selamat+datang+di+profil+saya!;Membangun+Web+App+%26+REST+API+yang+scalable;Integrasi+Generative+AI+%28RAG%29+%26+Otomasi+n8n;Turn+complex+workflows+into+simple%2C+automated+systems" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- left content -->
-<text x="48" y="66" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#22d3ee" letter-spacing="1">&lt;hello world /&gt;<animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/></text>
-<rect x="48" y="78" width="160" height="3" rx="2" fill="url(#gLine)"><animate attributeName="width" values="0;160" dur="1s" fill="freeze"/></rect>
-<text x="46" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="url(#gName)" filter="url(#glow)">Saufud Alehan</text>
-<text x="48" y="190" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#e0f2fe">Fullstack Developer <tspan fill="#22d3ee">•</tspan> Backend Engineer <tspan fill="#22d3ee">•</tspan> AI Automation</text>
-<g><rect x="48" y="228" width="91" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="93.5" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">Next.js</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze"/></g>
-<g><rect x="149" y="228" width="91" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="194.5" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">Node.js</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.65s" fill="freeze"/></g>
-<g><rect x="250" y="228" width="46" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="273.0" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">Go</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.9s" fill="freeze"/></g>
-<g><rect x="306" y="228" width="55" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="333.5" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">PHP</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.15s" fill="freeze"/></g>
-<g><rect x="371" y="228" width="118" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="430.0" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">PostgreSQL</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.4s" fill="freeze"/></g>
-<g><rect x="499" y="228" width="55" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.55"/>
-<text x="526.5" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" text-anchor="middle">n8n</text>
-<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.65s" fill="freeze"/></g>
-<!-- terminal window -->
-<g filter="url(#glow)">
-<rect x="640" y="48" width="320" height="196" rx="12" fill="#0b1120" fill-opacity="0.88" stroke="#38bdf8" stroke-opacity="0.45"/>
-<path d="M640 60a12 12 0 0 1 12-12h296a12 12 0 0 1 12 12v18H640z" fill="#111c36"/>
-<circle cx="660" cy="63" r="5" fill="#f87171"/><circle cx="678" cy="63" r="5" fill="#fbbf24"/><circle cx="696" cy="63" r="5" fill="#4ade80"/>
-<text x="800" y="67" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#64748b" text-anchor="middle">saufud.config.ts</text>
-</g>
-<text x="668" y="112" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#c084fc">const </tspan><tspan fill="#7dd3fc">dev </tspan><tspan fill="#e2e8f0">= {</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.060;0.080;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
-<text x="668" y="136" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#7dd3fc">  name: </tspan><tspan fill="#86efac">"Saufud"</tspan><tspan fill="#e2e8f0">,</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.150;0.170;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
-<text x="668" y="160" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#7dd3fc">  role: </tspan><tspan fill="#86efac">"Fullstack"</tspan><tspan fill="#e2e8f0">,</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.240;0.260;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
-<text x="668" y="184" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#7dd3fc">  ai: </tspan><tspan fill="#fbbf24">true</tspan><tspan fill="#e2e8f0">,</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.330;0.350;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
-<text x="668" y="208" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">};</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.420;0.440;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
-<text x="668" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#7dd3fc">dev.</tspan><tspan fill="#fcd34d">build</tspan><tspan fill="#e2e8f0">(</tspan><tspan fill="#86efac">"scalable"</tspan><tspan fill="#e2e8f0">);</tspan>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.510;0.530;0.93;1" dur="12.0s" repeatCount="indefinite"/></text>
+<br />
 
-<rect x="824" y="219" width="8" height="16" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-<!-- waves -->
-<path d="M0 300 C 150 270, 300 330, 500 300 S 850 270, 1000 300 V330 H0Z" fill="#06b6d4" fill-opacity="0.18"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 300 C 150 270, 300 330, 500 300 S 850 270, 1000 300 V330 H0Z;M0 300 C 150 330, 300 270, 500 300 S 850 330, 1000 300 V330 H0Z;M0 300 C 150 270, 300 330, 500 300 S 850 270, 1000 300 V330 H0Z"/></path>
-<path d="M0 312 C 200 290, 350 335, 550 312 S 850 290, 1000 312 V330 H0Z" fill="#6366f1" fill-opacity="0.28"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 312 C 200 290, 350 335, 550 312 S 850 290, 1000 312 V330 H0Z;M0 312 C 200 335, 350 290, 550 312 S 850 335, 1000 312 V330 H0Z;M0 312 C 200 290, 350 335, 550 312 S 850 290, 1000 312 V330 H0Z"/></path>
-</g>
-<rect x="0.5" y="0.5" width="999" height="329" rx="18" fill="none" stroke="#38bdf8" stroke-opacity="0.3"/>
-</svg>
+<div align="center">
+  <a href="https://www.linkedin.com/in/saufud-alehan-1b227a318/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ufudjeff8@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/saufudd/"><img src="https://img.shields.io/badge/Instagram-@saufudd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://drive.google.com/file/d/1OPJdcbzA6BWWVBE6bCrugmU4XeNKhmNG/view?usp=sharing"><img src="https://img.shields.io/badge/Lihat-CV%20%2F%20Resume-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saufud&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/saufud?tab=followers"><img src="https://img.shields.io/github/followers/saufud?label=Followers&style=flat-square&color=22d3ee&logo=github" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=flat-square" alt="Status" />
+</div>
+
+<br />
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👨‍💻 Tentang Saya <sub>/ About Me</sub>
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
+
+Saya **Fullstack Developer** yang berfokus pada **backend engineering** dan **otomasi berbasis AI**. Saya suka mengubah alur kerja yang rumit menjadi sistem yang sederhana, otomatis, dan mudah di-scale, dengan arsitektur modular dan REST API yang bersih.
+
+> *"Turn complex workflows into simple, automated, and scalable systems."*
+
+- 🎓 **S1 Sistem Informasi** — Universitas Pamulang (UNPAM)
+- 💼 **Fullstack Developer Intern** — PT Nusantara Data Cyber *(Okt 2026 · 3 bulan)*
+- 📍 Serang, Banten, Indonesia 🇮🇩
+- 🗣️ Bahasa Indonesia · English
+
+</td>
+    <td width="42%" valign="top">
+
+```ts
+const saufud = {
+  role: "Fullstack Developer",
+  focus: ["Backend", "AI Agent", "n8n"],
+  stack: ["Next.js", "Node.js", "Go", "PHP"],
+  mindset: "Clean & Modular",
+  learning: [
+    "High Concurrency",
+    "Distributed Cache",
+    "Message Queue",
+    "RAG & LLM APIs",
+  ],
+  openToCollab: true,
+};
+```
+
+</td>
+  </tr>
+</table>
+
+<!-- ═══════════════ FOCUS ═══════════════ -->
+## 🎯 Fokus Saat Ini
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Full-Stack Web</h3>
+      <sub>Next.js · React · Express.js<br/>Aplikasi web end-to-end</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend Engineering</h3>
+      <sub>Arsitektur modular · REST API<br/>High-concurrency systems</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI & Automation</h3>
+      <sub>RAG · LLM APIs · AI Agents<br/>Workflow otomatis dengan n8n</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,nodejs,express,go,php,postgres,prisma,mysql,mongodb,linux,aws,vercel,git,github,postman,vscode&perline=10&theme=dark" alt="Skill Icons" />
+</div>
+
+<br />
+
+<div align="center">
+
+| Domain | Teknologi & Tools |
+| :--- | :--- |
+| **🎨 Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **🗄️ Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **🤖 AI & Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Gemini](https://img.shields.io/badge/LLM_APIs-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=flat-square) |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **🧪 Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+</div>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Proyek Unggulan <sub>/ Featured Projects</sub>
+
+<table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">✨ HabitSense <sub>· Capstone Project (Tim)</sub></h3>
+      <p align="center">
+        Aplikasi web full-stack untuk melacak, menganalisis, dan membangun kebiasaan harian yang berkelanjutan, lengkap dengan dashboard yang intuitif.<br/>
+        <i>A full-stack web app to track, analyze, and build sustainable daily habits.</i>
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>PostgreSQL</code> <code>Prisma</code>
+      </p>
+      <p align="center">
+        <a href="https://habitsense.vercel.app/"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-habitsense.vercel.app-0ea5e9?style=for-the-badge" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Digital Talent & RAG AI Platform</h3>
+      <p align="center">
+        Platform asesmen minat-bakat digital dengan penilaian otomatis, rekomendasi Generative AI berbasis RAG, dan dashboard konsultan.
+      </p>
+      <p align="center">
+        <code>Node.js</code> <code>Express.js</code> <code>RAG</code> <code>React</code> <code>REST API</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Full-Stack E-Commerce Engine</h3>
+      <p align="center">
+        Platform e-commerce end-to-end dengan Google OAuth 2.0, keamanan JWT, CRUD katalog produk, dan penyimpanan media cloud.
+      </p>
+      <p align="center">
+        <code>Express.js</code> <code>OAuth 2.0</code> <code>PostgreSQL</code> <code>Cloudinary</code> <code>React</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🤖 AI Agent & n8n Automation</h3>
+      <p align="center">
+        Bot AI percakapan dan pipeline workflow otomatis yang mengintegrasikan LLM, Telegram, dan spreadsheet untuk operasional real-time.
+      </p>
+      <p align="center">
+        <code>n8n</code> <code>AI Agents</code> <code>REST API</code> <code>Node.js</code> <code>Webhooks</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════ JOURNEY ═══════════════ -->
+## 🏆 Perjalanan & Sertifikasi <sub>/ Journey & Certifications</sub>
+
+<table width="100%">
+  <tr>
+    <td width="6%" align="center">💼</td>
+    <td><b>Fullstack Developer Intern</b> — PT Nusantara Data Cyber<br/><sub>Okt 2026 · Magang 3 bulan</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>ASAH 2026 — AI Fullstack Developer Cohort</b><br/><sub>Dicoding × GoTo</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Top 30 Creative Future Tech Talent — Track AI</b><br/><sub>Kemenparekraf RI × Google</sub></td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><b>Coding Camp — Fullstack Web Developer</b><br/><sub>DBS Foundation × Dicoding Indonesia</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📜</td>
+    <td><b>Google AI Professional Certificate</b> · <b>BNSP Certified Junior Web Developer</b></td>
+  </tr>
+</table>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saufud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&ring_color=22d3ee" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=saufud&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saufud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saufud&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://ghchart.rshah.org/22d3ee/saufud" alt="Contribution Graph" />
+</div>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## 📫 Mari Berkolaborasi
+
+<div align="center">
+
+Punya ide proyek, peluang kolaborasi, atau sekadar ingin ngobrol soal backend & AI?<br/>
+**Jangan ragu untuk menghubungi saya!**
+
+<br />
+
+<a href="mailto:ufudjeff8@gmail.com"><img src="https://img.shields.io/badge/ufudjeff8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/saufud-alehan-1b227a318/"><img src="https://img.shields.io/badge/Saufud%20Alehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/saufudd/"><img src="https://img.shields.io/badge/@saufudd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,100:06b6d4&height=130&section=footer&text=Terima%20kasih%20sudah%20berkunjung!&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
+</div>
