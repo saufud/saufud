@@ -3,12 +3,6 @@
   <img src="./assets/header.svg" width="100%" alt="Saufud Alehan - Fullstack Developer, Backend Engineer, AI Automation" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=Halo%2C+saya+Saufud+%F0%9F%91%8B+Selamat+datang+di+profil+saya!;Membangun+Web+App+%26+REST+API+yang+scalable;Integrasi+Generative+AI+%28RAG%29+%26+Otomasi+n8n;Turn+complex+workflows+into+simple%2C+automated+systems" alt="Typing SVG" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
@@ -58,3 +52,51 @@ const saufud = {
   ],
   openToCollab: true,
 };
+```
+
+</td>
+  </tr>
+</table>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saufud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&ring_color=22d3ee" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=saufud&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saufud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saufud&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="98%" src="https://ghchart.rshah.org/22d3ee/saufud" alt="Contribution Graph" />
+</div>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## 📫 Mari Berkolaborasi
+
+<div align="center">
+
+Punya ide proyek, peluang kolaborasi, atau sekadar ingin ngobrol soal backend & AI?<br/>
+**Jangan ragu untuk menghubungi saya!**
+
+<br />
+
+<a href="mailto:ufudjeff8@gmail.com"><img src="https://img.shields.io/badge/ufudjeff8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/saufud-alehan-1b227a318/"><img src="https://img.shields.io/badge/Saufud%20Alehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/saufudd/"><img src="https://img.shields.io/badge/@saufudd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,100:06b6d4&height=130&section=footer&text=Terima%20kasih%20sudah%20berkunjung!&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer" />
+</div>
