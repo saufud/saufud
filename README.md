@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/saufud-alehan-1b227a318/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ufudjeff8@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/saufudd/"><img src="https://img.shields.io/badge/Instagram-@saufudd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://drive.google.com/file/d/1OPJdcbzA6BWWVBE6bCrugmU4XeNKhmNG/view?usp=sharing"><img src="https://img.shields.io/badge/Lihat-CV%20%2F%20Resume-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
 </div>
 
 <div align="center">
@@ -27,13 +26,13 @@
   <tr>
     <td width="58%" valign="top">
 
-Saya **Fullstack Developer** yang berfokus pada **backend engineering**. Saya suka mengubah alur kerja yang rumit menjadi sistem yang sederhana, otomatis, dan mudah di-scale, dengan arsitektur modular dan REST API yang bersih.
+Saya **Fullstack Developer** yang berfokus pada **backend engineering** dan **otomasi berbasis AI**. Saya suka mengubah alur kerja yang rumit menjadi sistem yang sederhana, otomatis, dan mudah di-scale, dengan arsitektur modular dan REST API yang bersih.
 
 > *"Turn complex workflows into simple, automated, and scalable systems."*
 
 - 🎓 **S1 Sistem Informasi** — Universitas Pamulang (UNPAM)
 - 📍 Serang, Banten, Indonesia 🇮🇩
-- 🗣️ Bahasa Indonesia 
+- 🗣️ Bahasa Indonesia · English
 
 </td>
     <td width="42%" valign="top">
@@ -42,7 +41,7 @@ Saya **Fullstack Developer** yang berfokus pada **backend engineering**. Saya su
 const saufud = {
   role: "Fullstack Developer",
   focus: ["Fullstack"],
-  stack: ["Next.js", "Node.js", "Go", "PHP"],
+  stack: ["Next.js", "Node.js", "PHP"],
   mindset: "Clean & Modular",
   learning: [
     "High Concurrency",
