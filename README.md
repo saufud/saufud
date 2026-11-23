@@ -27,7 +27,7 @@
   <tr>
     <td width="58%" valign="top">
 
-Saya **Fullstack Developer** yang berfokus pada **backend engineering** dan **otomasi berbasis AI**. Saya suka mengubah alur kerja yang rumit menjadi sistem yang sederhana, otomatis, dan mudah di-scale, dengan arsitektur modular dan REST API yang bersih.
+Saya **Fullstack Developer** yang berfokus pada **backend engineering**. Saya suka mengubah alur kerja yang rumit menjadi sistem yang sederhana, otomatis, dan mudah di-scale, dengan arsitektur modular dan REST API yang bersih.
 
 > *"Turn complex workflows into simple, automated, and scalable systems."*
 
