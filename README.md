@@ -33,7 +33,7 @@ Saya **Fullstack Developer** yang berfokus pada **backend engineering**. Saya su
 
 - 🎓 **S1 Sistem Informasi** — Universitas Pamulang (UNPAM)
 - 📍 Serang, Banten, Indonesia 🇮🇩
-- 🗣️ Bahasa Indonesia · English
+- 🗣️ Bahasa Indonesia 
 
 </td>
     <td width="42%" valign="top">
